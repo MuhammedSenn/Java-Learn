@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class KalınSesInceSes {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO
 		Scanner k = new Scanner(System.in);
 		char harf = k.next().charAt(0);
 		
